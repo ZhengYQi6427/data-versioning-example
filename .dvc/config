@@ -1,0 +1,6 @@
+['remote "nas"']
+    url = ../ssh:ra_yz3622@128.59.20.251:/volume1/project/research.traffic
+['remote "gs"']
+    url = gs://dvc-data-example
+['remote "github"']
+    url = https://github.com/ZhengYQi6427/dvc.example.git
